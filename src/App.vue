@@ -31,7 +31,7 @@ export default {
     data() {
         return {
             model: {
-                value: `{"employee": {"name":"Bono","salary":56000,"married":true}}`
+              value: `{"groceries": ["Ham","Eggs", "Milk","Cereal", "Bread"]}`
             },
             editView: true,
             savable: true,
